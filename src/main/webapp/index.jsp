@@ -9,6 +9,6 @@
   <title>CI/CD Demo</title>
 </head>
 <body>
-  <H1>CI/CD Demo v0.3</H1>
+  <H1>CI/CD Demo v0.4</H1>
 </body>
 </html>
